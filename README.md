@@ -1,21 +1,19 @@
-# Hello! My name is Caique 👋🥤
-I'm Front-end developer and System Development Analysis student.
+### Hello! My name is Caique 👋🥤
+Welcome to my Github!
 
-## Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🔭 &nbsp;I’m currently working on personal projects
+- 🌱 &nbsp;I’m currently learning PHP
+- 👨‍💻 &nbsp;Brazilian developer
+- ⚡ &nbsp;Fun fact: I like to laugh 🤣 and love music 🎶
 
-## I also have knowledge of...
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### About me
+I am Front-End developer with experience creating responsive webpage applications and friendly person. Always searching for knowledge.
 
-## I'm currently learning...
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,flutter,git,postman)](https://skillicons.dev)
 
+### Connect With Me
+<a href="https://www.linkedin.com/in/caiquegom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **caiquegom/caiquegom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
