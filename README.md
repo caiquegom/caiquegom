@@ -10,7 +10,7 @@ Welcome to my Github!
 I am Front-End developer with experience creating responsive webpage applications and friendly person. Always searching for knowledge.
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,py,dart,flutter,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,py,git,postman)](https://skillicons.dev)
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/caiquegom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
