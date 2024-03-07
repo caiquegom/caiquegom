@@ -2,7 +2,7 @@
 Welcome to my Github!
 
 - 🔭 &nbsp;I’m currently working on personal projects
-- 🌱 &nbsp;I’m currently learning PHP
+- 🌱 &nbsp;I’m currently learning PHP and Laravel
 - 👨‍💻 &nbsp;Brazilian developer
 - ⚡ &nbsp;Fun fact: I like to laugh 🤣 and love music 🎶
 
