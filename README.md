@@ -7,10 +7,10 @@ Welcome to my Github!
 - ⚡ &nbsp;Fun fact: I like to laugh 🤣 and love music 🎶
 
 ### About me
-I am Front-End developer with experience creating responsive webpage applications and friendly person. Always searching for knowledge.
+I am Fullstack developer with experience creating functional systems and friendly person. Always searching for knowledge.
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,py,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,laravel,py,git,postman)](https://skillicons.dev)
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/caiquegom/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
